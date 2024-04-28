@@ -1,0 +1,9 @@
+[user]
+	email = orange27@shu.edu.cn
+	name = irorange27
+[core]
+	editor = vim
+[color]
+	ui = true
+[pull]
+	rebase = true
