@@ -1,5 +1,3 @@
 let g:netrw_dirhistmax  =10
-let g:netrw_dirhistcnt =3
-let g:netrw_dirhist_3='/home/niina/Desktop/ysyx/mpi/mpitutorial/tutorials/mpi-send-and-receive/code'
-let g:netrw_dirhist_2='/home/niina/Desktop/ysyx/mpi/mpitutorial/tutorials/mpi-send-and-receive'
-let g:netrw_dirhist_1='/home/niina/Desktop/ysyx/mpi/mpitutorial/tutorials/mpi-send-and-receive/code'
+let g:netrw_dirhistcnt =1
+let g:netrw_dirhist_1='/home/niina/fish-3.6.4'
